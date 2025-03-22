@@ -39,6 +39,7 @@ ENV/
 # Project specific directories and files
 incoming_files/
 processed_files/
+failed_files/
 temp_files/
 logs/
 *.log
